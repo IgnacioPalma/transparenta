@@ -207,6 +207,7 @@ marimo/_lsp/
 __marimo__/
 
 
-#datos 
+#datos
 datos_limpios/ 
 Limpieza/Municipalidades/  
+data/
